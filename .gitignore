@@ -1,0 +1,16 @@
+**/.idea/
+**/target/
+**/out/
+**/.settings/
+**/.classpath
+**/.project
+**/*.log
+**/.env
+**/.env.*
+**/*.pem
+**/*.p12
+**/*.jks
+.DS_Store
+Thumbs.db
+
+*.zip
